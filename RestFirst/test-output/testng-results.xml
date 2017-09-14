@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" total="31" passed="30">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="74450" started-at="2017-08-23T08:49:42Z" finished-at="2017-08-23T08:50:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="74450" started-at="2017-08-23T08:49:42Z" finished-at="2017-08-23T08:50:56Z">
+      <class name="DemoTest.NewTest">
+        <test-method status="PASS" signature="getAddress(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DemoTest.NewTest@724af044]" name="getAddress" duration-ms="4006" started-at="2017-08-23T14:19:42Z" data-provider="dp" finished-at="2017-08-23T14:19:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[863 Great Northern]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Helena]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Montana]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[59601]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAddress -->
+        <test-method status="PASS" signature="getAddress(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DemoTest.NewTest@724af044]" name="getAddress" duration-ms="1928" started-at="2017-08-23T14:19:46Z" data-provider="dp" finished-at="2017-08-23T14:19:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[505 N 27th St]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Lincoln]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Nebraska]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[68503]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAddress -->
+        <test-method status="PASS" signature="getAddress(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DemoTest.NewTest@724af044]" name="getAddress" duration-ms="1964" started-at="2017-08-23T14:19:48Z" data-provider="dp" finished-at="2017-08-23T14:19:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2073 Hwy 50 E]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Carson City]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Nevada]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[89703]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAddress -->
+        <test-method status="PASS" signature="getAddress(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DemoTest.NewTest@724af044]" name="getAddress" duration-ms="2069" started-at="2017-08-23T14:19:50Z" data-provider="dp" finished-at="2017-08-23T14:19:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[39 N Main St]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Concord]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[New Hampshire]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[03301]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAddress -->
+        <test-method status="PASS" signature="getAddress(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DemoTest.NewTest@724af044]" name="getAddress" duration-ms="1916" started-at="2017-08-23T14:19:52Z" data-provider="dp" finished-at="2017-08-23T14:19:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[101 South Warren Street]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Trenton]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[New Jersey]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[08608]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAddress -->
+        <test-method status="PASS" signature="getAddress(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DemoTest.NewTest@724af044]" name="getAddress" duration-ms="2106" started-at="2017-08-23T14:19:54Z" data-provider="dp" finished-at="2017-08-23T14:19:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[66-70 E San Francisco St]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Santa Fe]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[New Mexico]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[87501]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAddress -->
+        <test-method status="PASS" signature="getAddress(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DemoTest.NewTest@724af044]" name="getAddress" duration-ms="2005" started-at="2017-08-23T14:19:56Z" data-provider="dp" finished-at="2017-08-23T14:19:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1 North Pearl Street]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Albany]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[New York]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[12207]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAddress -->
+        <test-method status="PASS" signature="getAddress(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DemoTest.NewTest@724af044]" name="getAddress" duration-ms="3556" started-at="2017-08-23T14:19:58Z" data-provider="dp" finished-at="2017-08-23T14:20:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[150 Fayetteville Street]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Raleigh]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[North Carolina]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[27601]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAddress -->
+        <test-method status="PASS" signature="getAddress(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DemoTest.NewTest@724af044]" name="getAddress" duration-ms="4969" started-at="2017-08-23T14:20:01Z" data-provider="dp" finished-at="2017-08-23T14:20:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[414 South 3rd Street]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Bismarck]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[North Dakota]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[58504]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAddress -->
+        <test-method status="FAIL" signature="getAddress(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DemoTest.NewTest@724af044]" name="getAddress" duration-ms="6927" started-at="2017-08-23T14:20:06Z" data-provider="dp" finished-at="2017-08-23T14:20:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[107 South High Street]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Columbus]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Ohio]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[43215]]>
+              </value>
+            </param>
+          </params>
+          <exception class="io.restassured.path.json.exception.JsonPathException">
+            <message>
+              <![CDATA[Failed to parse the JSON document]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[io.restassured.path.json.exception.JsonPathException: Failed to parse the JSON document
+	at io.restassured.path.json.JsonPath$ExceptionCatcher.invoke(JsonPath.java:930)
+	at io.restassured.path.json.JsonPath$4.doParseWith(JsonPath.java:895)
+	at io.restassured.path.json.JsonPath$JsonParser.parseWith(JsonPath.java:975)
+	at io.restassured.path.json.JsonPath.get(JsonPath.java:201)
+	at DemoTest.NewTest.getAddress(NewTest.java:83)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+Caused by: java.lang.IllegalArgumentException: The JSON input text should neither be null nor empty.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.codehaus.groovy.reflection.CachedConstructor.invoke(CachedConstructor.java:83)
+	at org.codehaus.groovy.runtime.callsite.ConstructorSite$ConstructorSiteNoUnwrapNoCoerce.callConstructor(ConstructorSite.java:105)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCallConstructor(CallSiteArray.java:60)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:235)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:247)
+	at io.restassured.internal.path.json.ConfigurableJsonSlurper.parseText(ConfigurableJsonSlurper.groovy:80)
+	at io.restassured.path.json.JsonPath$4$1.method(JsonPath.java:893)
+	at io.restassured.path.json.JsonPath$ExceptionCatcher.invoke(JsonPath.java:928)
+	... 28 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- io.restassured.path.json.exception.JsonPathException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAddress -->
+        <test-method status="PASS" signature="getAddress(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DemoTest.NewTest@724af044]" name="getAddress" duration-ms="2079" started-at="2017-08-23T14:20:13Z" data-provider="dp" finished-at="2017-08-23T14:20:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[119 W Main St]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Oklahoma City]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Oklahoma]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[73102]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAddress -->
+        <test-method status="PASS" signature="getAddress(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DemoTest.NewTest@724af044]" name="getAddress" duration-ms="2286" started-at="2017-08-23T14:20:15Z" data-provider="dp" finished-at="2017-08-23T14:20:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[401 Center St NE]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Salem]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Oregon]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[97301]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAddress -->
+        <test-method status="PASS" signature="getAddress(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DemoTest.NewTest@724af044]" name="getAddress" duration-ms="2086" started-at="2017-08-23T14:20:18Z" data-provider="dp" finished-at="2017-08-23T14:20:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1500 N. 3rd Street]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Harrisburg]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Pennsylvania]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[17102]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAddress -->
+        <test-method status="PASS" signature="getAddress(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DemoTest.NewTest@724af044]" name="getAddress" duration-ms="1990" started-at="2017-08-23T14:20:20Z" data-provider="dp" finished-at="2017-08-23T14:20:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2 Kennedy Plaza]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Providence]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Rhode Island]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[02903]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAddress -->
+        <test-method status="PASS" signature="getAddress(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DemoTest.NewTest@724af044]" name="getAddress" duration-ms="1891" started-at="2017-08-23T14:20:22Z" data-provider="dp" finished-at="2017-08-23T14:20:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1421 Sumter St]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Columbia]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[South Carolina]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[29201]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAddress -->
+        <test-method status="PASS" signature="getAddress(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DemoTest.NewTest@724af044]" name="getAddress" duration-ms="2004" started-at="2017-08-23T14:20:24Z" data-provider="dp" finished-at="2017-08-23T14:20:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[512 W Sioux Ave]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pierre]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[South Dakota]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[57501]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAddress -->
+        <test-method status="PASS" signature="getAddress(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DemoTest.NewTest@724af044]" name="getAddress" duration-ms="2002" started-at="2017-08-23T14:20:26Z" data-provider="dp" finished-at="2017-08-23T14:20:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[530 Church St]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Nashville]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Tennessee]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[37219]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAddress -->
+        <test-method status="PASS" signature="getAddress(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DemoTest.NewTest@724af044]" name="getAddress" duration-ms="1910" started-at="2017-08-23T14:20:28Z" data-provider="dp" finished-at="2017-08-23T14:20:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[809 Congress Ave]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Austin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Texas]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[78701]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAddress -->
+        <test-method status="PASS" signature="getAddress(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DemoTest.NewTest@724af044]" name="getAddress" duration-ms="2044" started-at="2017-08-23T14:20:30Z" data-provider="dp" finished-at="2017-08-23T14:20:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[18 W 100 South]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Salt Lake City]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Utah]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[84101]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAddress -->
+        <test-method status="PASS" signature="getAddress(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DemoTest.NewTest@724af044]" name="getAddress" duration-ms="1951" started-at="2017-08-23T14:20:32Z" data-provider="dp" finished-at="2017-08-23T14:20:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[28 State Street]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Montpelier]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Vermont]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[05602]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAddress -->
+        <test-method status="PASS" signature="getAddress(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DemoTest.NewTest@724af044]" name="getAddress" duration-ms="1913" started-at="2017-08-23T14:20:34Z" data-provider="dp" finished-at="2017-08-23T14:20:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[30 N 8th St]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Richmond]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Virginia]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[23219]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAddress -->
+        <test-method status="PASS" signature="getAddress(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DemoTest.NewTest@724af044]" name="getAddress" duration-ms="2000" started-at="2017-08-23T14:20:35Z" data-provider="dp" finished-at="2017-08-23T14:20:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1023 Capitol Way S]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Olympia]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Washington]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[98501]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAddress -->
+        <test-method status="PASS" signature="getAddress(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DemoTest.NewTest@724af044]" name="getAddress" duration-ms="1950" started-at="2017-08-23T14:20:37Z" data-provider="dp" finished-at="2017-08-23T14:20:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[333 Laidley Street]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Charleston]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[West Virginia]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[25301]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAddress -->
+        <test-method status="PASS" signature="getAddress(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DemoTest.NewTest@724af044]" name="getAddress" duration-ms="1939" started-at="2017-08-23T14:20:39Z" data-provider="dp" finished-at="2017-08-23T14:20:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[711 State Street]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Madison]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Wisconsin]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[53703]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAddress -->
+        <test-method status="PASS" signature="getAddress(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DemoTest.NewTest@724af044]" name="getAddress" duration-ms="1978" started-at="2017-08-23T14:20:41Z" data-provider="dp" finished-at="2017-08-23T14:20:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1802 Central Ave]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Cheyenne]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Wyoming]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[82001]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAddress -->
+        <test-method status="PASS" signature="getAddress(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DemoTest.NewTest@724af044]" name="getAddress" duration-ms="1969" started-at="2017-08-23T14:20:43Z" data-provider="dp" finished-at="2017-08-23T14:20:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rte 1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pago Pago]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[American Samoa]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[96799]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAddress -->
+        <test-method status="PASS" signature="getAddress(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DemoTest.NewTest@724af044]" name="getAddress" duration-ms="2583" started-at="2017-08-23T14:20:45Z" data-provider="dp" finished-at="2017-08-23T14:20:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Marine Corps Drive]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hagatna]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Guam]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[96913]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAddress -->
+        <test-method status="PASS" signature="getAddress(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DemoTest.NewTest@724af044]" name="getAddress" duration-ms="2455" started-at="2017-08-23T14:20:48Z" data-provider="dp" finished-at="2017-08-23T14:20:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Middle Rd]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Saipan]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Northern Mariana Islands]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[96950]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAddress -->
+        <test-method status="PASS" signature="getAddress(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DemoTest.NewTest@724af044]" name="getAddress" duration-ms="1955" started-at="2017-08-23T14:20:50Z" data-provider="dp" finished-at="2017-08-23T14:20:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[00918]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[San Juan]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Northern Mariana Islands]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[00918]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAddress -->
+        <test-method status="PASS" signature="getAddress(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DemoTest.NewTest@724af044]" name="getAddress" duration-ms="2001" started-at="2017-08-23T14:20:52Z" data-provider="dp" finished-at="2017-08-23T14:20:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rte 313]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[harlotte Amalie]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[U.S. Virgin Islands]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[00802]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAddress -->
+        <test-method status="PASS" signature="getAddress(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DemoTest.NewTest@724af044]" name="getAddress" duration-ms="1960" started-at="2017-08-23T14:20:54Z" data-provider="dp" finished-at="2017-08-23T14:20:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1201 G St. NW]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Washington, DC]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Washington, DC]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[20015]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAddress -->
+      </class> <!-- DemoTest.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
